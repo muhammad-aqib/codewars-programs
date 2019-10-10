@@ -22,4 +22,4 @@ def main(inputString):
 
 
 if __name__ == "__main__":
-    main("sami$bh$a")
+    main("a$qi$b")
